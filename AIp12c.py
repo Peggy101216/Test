@@ -93,8 +93,8 @@ def handle_message(event):
     if (text=="Hi"):
         reply_text = "Hello"
         #Your user ID
-    elif(text=="你好"): 
-        reply_text = "你好啊..."
+    elif(text=="吃飯了"): 
+        reply_text = "坐下(搖尾巴)"
     elif(text=="機器人"):
         reply_text = "有！我是機器人，在！"
     else:  # 如果非以上的選項，就會學你說話
