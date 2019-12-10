@@ -42,7 +42,7 @@
 # $ git add .                // 更新專案 
 # $ git commit -m “更新的訊息”
 # $ git push heroku master
-# --> 部署的網址： https://aip12x.herokuapp.com/   
+# --> 部署的網址： https://aip-class.herokuapp.com/   
 ###=== (4.5) 在部署Heroku時，同時偵錯 ===###  
 # 建議 開設兩個 Terminals, 一個部署(如 4.4), 一個偵錯(如下行指令)
 # $ heroku logs --tail --app aip12x   (偵錯指令)
